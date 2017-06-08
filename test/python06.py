@@ -25,3 +25,4 @@ class Student(object):
 s = Student('Ling')
 # print(s.name)
 print(s())
+print(Chain().status)
