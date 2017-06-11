@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = 'Jack Zhang'
+
+'''
+async web application
+'''
+
 import logging; logging.basicConfig(level=logging.INFO)
 
 import asyncio, os, json, time
