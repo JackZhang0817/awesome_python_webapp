@@ -1,0 +1,7 @@
+#phpstorm
+modules.xml
+awesome_python_webapp.iml
+misc.xml
+workspace.xml
+.idea
+*.py[cod]
